@@ -1,3 +1,4 @@
 Den ca con khi cung hieu duoc lenh Git
 add : thuc hien thay doi index
 commit: Luu lai trang thai cua index
+pull: Lay noi dung cua remote Repository
