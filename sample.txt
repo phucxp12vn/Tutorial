@@ -1,2 +1,3 @@
 Den ca con khi cung hieu duoc lenh Git
 add : thuc hien thay doi index
+commit: Luu lai trang thai cua index
