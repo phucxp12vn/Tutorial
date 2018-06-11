@@ -1,3 +1,4 @@
 Den ca con khi cung hieu duoc lenh Git
 add Dang ki thay doi trong index
 commit: Luu lai trang thai cua index
+pull: Lay noi dung cua remote repository
